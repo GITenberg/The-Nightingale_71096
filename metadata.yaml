@@ -1,0 +1,45 @@
+_repo: The-Nightingale_71096
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Newill, Mary J.
+    gutenberg_agent_id: '56072'
+    url: http://www.gutenberg.org/2009/agents/56072
+  translator:
+    agent_name: Dulcken, H. W. (Henry William)
+    aliases:
+    - Dulcken, Henry William
+    - Dulcken, Henry W. (Henry William)
+    birthdate: 1832
+    deathdate: 1894
+    gutenberg_agent_id: '4538'
+    url: http://www.gutenberg.org/2009/agents/4538
+    wikipedia: https://en.wikipedia.org/wiki/Henry_William_Dulcken
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: https://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2023-07-02'
+identifiers:
+  gutenberg: '71096'
+language: en
+pgterms:marc904: https://archive.org/details/nighandetingale00rich/page/n7/mode/2up
+pgterms:marc905: 20200715232039andersen
+pgterms:marc906: '1898'
+pgterms:marc907: us
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bR. H. Russel, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Nightingale
+url: http://www.gutenberg.org/ebooks/71096
