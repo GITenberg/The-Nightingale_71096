@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '4538'
     url: http://www.gutenberg.org/2009/agents/4538
     wikipedia: https://en.wikipedia.org/wiki/Henry_William_Dulcken
+covers:
+- cover_type: archival
+  image_path: 71096-h/images/cover.jpg
 creator:
   author:
     agent_name: Andersen, H. C. (Hans Christian)
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: https://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71096#The-Nightingale
 gutenberg_issued: '2023-07-02'
 identifiers:
   gutenberg: '71096'
